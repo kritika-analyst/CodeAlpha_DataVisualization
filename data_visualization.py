@@ -1,6 +1,6 @@
 # Project : Data Visualization
 # Author : Kritika
-# Task 3 - Data Visualization of Netflix Movies and TV Shows
+# Data Visualization of Netflix Movies and TV Shows
 
 # importing libraries
 import pandas as pd
